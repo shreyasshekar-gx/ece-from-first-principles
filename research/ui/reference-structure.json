@@ -1,0 +1,723 @@
+{
+  "styles": [
+    "https://fonts.googleapis.com/css2?family=VT323&family=Source+Serif+4:ital,opsz,wght@0,8..60,400..700;1,8..60,400..700&family=JetBrains+Mono:wght@400;500;700&display=swap",
+    "https://aiengineeringfromscratch.com/style.css?v=8b92b0fd3c28564e",
+    "https://aiengineeringfromscratch.com/intelligence-check.css?v=41a0b89e90d809b2",
+    "https://aiengineeringfromscratch.com/newsletter.css?v=20260926b"
+  ],
+  "nodes": [
+    {
+      "tag": "A",
+      "cls": "skip-link",
+      "text": "Skip to content"
+    },
+    {
+      "tag": "HEADER",
+      "cls": "site-header",
+      "text": "AI / FROM SCRATCH\n      \n      ContentsCatalogLearning Paths\n        \n        Books\n        \n        Roadmap\n        Glossary\n        About\n"
+    },
+    {
+      "tag": "A",
+      "cls": "logo",
+      "text": "AI / FROM SCRATCH"
+    },
+    {
+      "tag": "NAV",
+      "cls": "header-priority-nav",
+      "text": "ContentsCatalogLearning Paths"
+    },
+    {
+      "tag": "A",
+      "cls": "",
+      "text": "Contents"
+    },
+    {
+      "tag": "A",
+      "cls": "",
+      "text": "Catalog"
+    },
+    {
+      "tag": "A",
+      "cls": "",
+      "text": "Learning Paths"
+    },
+    {
+      "tag": "NAV",
+      "cls": "header-nav",
+      "text": "Books\n        \n        Roadmap\n        Glossary\n        About\n        How to LearnProjectsManualsCheat SheetsSkillsMy HighlightsBlogs & Guid"
+    },
+    {
+      "tag": "A",
+      "cls": "",
+      "text": "Books"
+    },
+    {
+      "tag": "A",
+      "cls": "",
+      "text": "Roadmap"
+    },
+    {
+      "tag": "A",
+      "cls": "",
+      "text": "Glossary"
+    },
+    {
+      "tag": "A",
+      "cls": "",
+      "text": "About"
+    },
+    {
+      "tag": "A",
+      "cls": "",
+      "text": "How to Learn"
+    },
+    {
+      "tag": "A",
+      "cls": "",
+      "text": "Projects"
+    },
+    {
+      "tag": "A",
+      "cls": "",
+      "text": "Manuals"
+    },
+    {
+      "tag": "A",
+      "cls": "",
+      "text": "Cheat Sheets"
+    },
+    {
+      "tag": "A",
+      "cls": "",
+      "text": "Skills"
+    },
+    {
+      "tag": "A",
+      "cls": "",
+      "text": "My Highlights"
+    },
+    {
+      "tag": "A",
+      "cls": "",
+      "text": "Blogs & Guides"
+    },
+    {
+      "tag": "A",
+      "cls": "header-mobile-only",
+      "text": "Certifications"
+    },
+    {
+      "tag": "A",
+      "cls": "header-mobile-only",
+      "text": "Sponsor us"
+    },
+    {
+      "tag": "A",
+      "cls": "",
+      "text": "Newsletter"
+    },
+    {
+      "tag": "A",
+      "cls": "header-github",
+      "text": "71.4k"
+    },
+    {
+      "tag": "H1",
+      "cls": "manual-title",
+      "text": "AI Engineeringfrom Scratch"
+    },
+    {
+      "tag": "P",
+      "cls": "manual-tagline reveal in-view visible",
+      "text": "542 lessons. 20 phases. Every algorithm built from raw math before a single framework gets imported."
+    },
+    {
+      "tag": "P",
+      "cls": "manual-attribution reveal in-view visible",
+      "text": "Maintained by Rohit Ghumare and contributors. Run on your own machine."
+    },
+    {
+      "tag": "A",
+      "cls": "masthead-btn masthead-btn--primary",
+      "text": "Start the Course"
+    },
+    {
+      "tag": "A",
+      "cls": "masthead-btn",
+      "text": "Explore Learning Paths"
+    },
+    {
+      "tag": "A",
+      "cls": "masthead-btn",
+      "text": "Star on GitHub\n          71.4k"
+    },
+    {
+      "tag": "A",
+      "cls": "masthead-btn",
+      "text": "Follow @rohitg00"
+    },
+    {
+      "tag": "P",
+      "cls": "masthead-install-caption reveal in-view visible",
+      "text": "Your agent becomes your tutor: placement quiz, personalized path, lessons taught interactively in your terminal."
+    },
+    {
+      "tag": "P",
+      "cls": "intelligence-check-question",
+      "text": "Is superintelligence here yet?"
+    },
+    {
+      "tag": "P",
+      "cls": "intelligence-check-answer",
+      "text": "A very unofficial test."
+    },
+    {
+      "tag": "P",
+      "cls": "intelligence-check-hint",
+      "text": "Ask a big question. Get a small answer."
+    },
+    {
+      "tag": "A",
+      "cls": "intelligence-check-sponsor",
+      "text": "Sponsor the course"
+    },
+    {
+      "tag": "H2",
+      "cls": "",
+      "text": "Learn AI from scratch. Stay ahead of what’s next."
+    },
+    {
+      "tag": "P",
+      "cls": "",
+      "text": "Practical lessons, tools worth trying, and the week’s key developments across AI, DevOps, and cloud native. One free email, every week."
+    },
+    {
+      "tag": "P",
+      "cls": "newsletter-note",
+      "text": "Free. Unsubscribe anytime. Finish signup on Substack."
+    },
+    {
+      "tag": "P",
+      "cls": "learners-quote",
+      "text": "“Obsessed with the AI Engineering from Scratch repo.” - AI engineer at Google"
+    },
+    {
+      "tag": "P",
+      "cls": "",
+      "text": "Most AI material teaches in scattered pieces. A paper here, a fine-tuning post there, a flashy agent demo somewhere else. The pieces rarely "
+    },
+    {
+      "tag": "P",
+      "cls": "",
+      "text": "This curriculum is the spine. 20 phases, 542 lessons, four languages: Python, TypeScript, Rust, Julia. Linear algebra at one end, autonomous"
+    },
+    {
+      "tag": "P",
+      "cls": "",
+      "text": "Each lesson runs the same loop: read the problem, derive the math, write the code, run the test, keep the artifact. No five-minute videos, n"
+    },
+    {
+      "tag": "A",
+      "cls": "agent-machine-link",
+      "text": "FIG_AGT · Interactive simulation\n          Inside an AI Agent\n          An AI agent is more than an LLM call. Run one request through a work"
+    },
+    {
+      "tag": "H2",
+      "cls": "",
+      "text": "Inside an AI Agent"
+    },
+    {
+      "tag": "P",
+      "cls": "",
+      "text": "An AI agent is more than an LLM call. Run one request through a working machine, switch off retrieval, tools or the verifier, and watch what"
+    },
+    {
+      "tag": "HEADER",
+      "cls": "course-paths-header",
+      "text": "Choose the work you want to do\n        \n          AI engineering is larger than model code. Choose one of four core learning paths, then lea"
+    },
+    {
+      "tag": "H2",
+      "cls": "",
+      "text": "Choose the work you want to do"
+    },
+    {
+      "tag": "P",
+      "cls": "",
+      "text": "AI engineering is larger than model code. Choose one of four core learning paths, then learn from the same source, labs, tests, and artifact"
+    },
+    {
+      "tag": "A",
+      "cls": "",
+      "text": "View Learning Paths"
+    },
+    {
+      "tag": "A",
+      "cls": "",
+      "text": "Browse career routes"
+    },
+    {
+      "tag": "A",
+      "cls": "learning-paths-node learning-paths-node--applications",
+      "text": "Building and Deploying AI Applications"
+    },
+    {
+      "tag": "A",
+      "cls": "learning-paths-node learning-paths-node--software",
+      "text": "Software Engineering Fundamentals"
+    },
+    {
+      "tag": "A",
+      "cls": "learning-paths-node learning-paths-node--agents",
+      "text": "Agent-Assisted Engineering"
+    },
+    {
+      "tag": "A",
+      "cls": "learning-paths-node learning-paths-node--shaping",
+      "text": "Product Judgment and Delivery"
+    },
+    {
+      "tag": "P",
+      "cls": "",
+      "text": "Set up a working environment, run the repository, and learn the lesson workflow before choosing a specialization."
+    },
+    {
+      "tag": "A",
+      "cls": "course-route-link",
+      "text": "Open lesson"
+    },
+    {
+      "tag": "A",
+      "cls": "course-route-link",
+      "text": "GitHub source"
+    },
+    {
+      "tag": "P",
+      "cls": "",
+      "text": "Move from prompts, structured outputs, embeddings, and retrieval through evaluation, serving, observability, and safe release."
+    },
+    {
+      "tag": "A",
+      "cls": "course-route-link",
+      "text": "Start path"
+    },
+    {
+      "tag": "A",
+      "cls": "course-route-link",
+      "text": "GitHub path"
+    },
+    {
+      "tag": "P",
+      "cls": "",
+      "text": "Build the repository, environment, interface, debugging, verification, security, release, and operational foundations AI systems depend on."
+    },
+    {
+      "tag": "A",
+      "cls": "course-route-link",
+      "text": "Start path"
+    },
+    {
+      "tag": "A",
+      "cls": "course-route-link",
+      "text": "GitHub path"
+    },
+    {
+      "tag": "P",
+      "cls": "",
+      "text": "Frame the task, plan from repository evidence, engineer the loop and harness, isolate delegation, verify the result, and preserve feedback."
+    },
+    {
+      "tag": "A",
+      "cls": "course-route-link",
+      "text": "Start path"
+    },
+    {
+      "tag": "A",
+      "cls": "course-route-link",
+      "text": "GitHub path"
+    },
+    {
+      "tag": "P",
+      "cls": "",
+      "text": "Turn observed work into outcomes, assumptions, testable slices, executable specifications, measurement plans, staged releases, and owned fee"
+    },
+    {
+      "tag": "A",
+      "cls": "course-route-link",
+      "text": "Start path"
+    },
+    {
+      "tag": "A",
+      "cls": "course-route-link",
+      "text": "GitHub path"
+    },
+    {
+      "tag": "P",
+      "cls": "",
+      "text": "Build, secure, verify, and operate stateless MCP systems from wire envelopes through release gates."
+    },
+    {
+      "tag": "A",
+      "cls": "course-route-link",
+      "text": "Start path"
+    },
+    {
+      "tag": "A",
+      "cls": "course-route-link",
+      "text": "GitHub source"
+    },
+    {
+      "tag": "P",
+      "cls": "",
+      "text": "Build, invoke, route, secure, evaluate, package, and verify portable skills in real agent hosts."
+    },
+    {
+      "tag": "A",
+      "cls": "course-route-link",
+      "text": "Start path"
+    },
+    {
+      "tag": "A",
+      "cls": "course-route-link",
+      "text": "GitHub source"
+    },
+    {
+      "tag": "P",
+      "cls": "",
+      "text": "Choose a Claude or MCPA certification route, complete practical labs, keep learner-owned artifacts, and use original assessments."
+    },
+    {
+      "tag": "A",
+      "cls": "course-route-link",
+      "text": "Explore paths"
+    },
+    {
+      "tag": "A",
+      "cls": "course-route-link",
+      "text": "GitHub tutor"
+    },
+    {
+      "tag": "H2",
+      "cls": "modal-title",
+      "text": ""
+    },
+    {
+      "tag": "P",
+      "cls": "modal-desc",
+      "text": ""
+    },
+    {
+      "tag": "A",
+      "cls": "modal-phase-link",
+      "text": ""
+    },
+    {
+      "tag": "P",
+      "cls": "",
+      "text": "Math, Tooling, and Classical Machine Learning · phases 00-02"
+    },
+    {
+      "tag": "A",
+      "cls": "",
+      "text": "EPUB"
+    },
+    {
+      "tag": "A",
+      "cls": "",
+      "text": "PDF"
+    },
+    {
+      "tag": "P",
+      "cls": "",
+      "text": "Networks, Vision, and Speech · phases 03, 04, 06"
+    },
+    {
+      "tag": "A",
+      "cls": "",
+      "text": "EPUB"
+    },
+    {
+      "tag": "A",
+      "cls": "",
+      "text": "PDF"
+    },
+    {
+      "tag": "P",
+      "cls": "",
+      "text": "NLP Foundations and the Transformer · phases 05, 07"
+    },
+    {
+      "tag": "A",
+      "cls": "",
+      "text": "EPUB"
+    },
+    {
+      "tag": "A",
+      "cls": "",
+      "text": "PDF"
+    },
+    {
+      "tag": "P",
+      "cls": "",
+      "text": "Generation, Reinforcement, Pretraining, and Engineering · phases 08-11"
+    },
+    {
+      "tag": "A",
+      "cls": "",
+      "text": "EPUB"
+    },
+    {
+      "tag": "A",
+      "cls": "",
+      "text": "PDF"
+    },
+    {
+      "tag": "P",
+      "cls": "",
+      "text": "Multimodality, Protocols, Autonomy, and Swarms · phases 12-16"
+    },
+    {
+      "tag": "A",
+      "cls": "",
+      "text": "EPUB"
+    },
+    {
+      "tag": "A",
+      "cls": "",
+      "text": "PDF"
+    },
+    {
+      "tag": "P",
+      "cls": "",
+      "text": "Infrastructure, Safety, and Capstones · phases 17-19"
+    },
+    {
+      "tag": "A",
+      "cls": "",
+      "text": "EPUB"
+    },
+    {
+      "tag": "A",
+      "cls": "",
+      "text": "PDF"
+    },
+    {
+      "tag": "A",
+      "cls": "",
+      "text": "GitHub release"
+    }
+  ],
+  "fonts": [
+    {
+      "family": "JetBrains Mono",
+      "weight": "400",
+      "status": "unloaded"
+    },
+    {
+      "family": "JetBrains Mono",
+      "weight": "400",
+      "status": "unloaded"
+    },
+    {
+      "family": "JetBrains Mono",
+      "weight": "400",
+      "status": "loaded"
+    },
+    {
+      "family": "JetBrains Mono",
+      "weight": "400",
+      "status": "unloaded"
+    },
+    {
+      "family": "JetBrains Mono",
+      "weight": "400",
+      "status": "loaded"
+    },
+    {
+      "family": "JetBrains Mono",
+      "weight": "400",
+      "status": "loaded"
+    },
+    {
+      "family": "JetBrains Mono",
+      "weight": "500",
+      "status": "unloaded"
+    },
+    {
+      "family": "JetBrains Mono",
+      "weight": "500",
+      "status": "unloaded"
+    },
+    {
+      "family": "JetBrains Mono",
+      "weight": "500",
+      "status": "loaded"
+    },
+    {
+      "family": "JetBrains Mono",
+      "weight": "500",
+      "status": "unloaded"
+    },
+    {
+      "family": "JetBrains Mono",
+      "weight": "500",
+      "status": "loaded"
+    },
+    {
+      "family": "JetBrains Mono",
+      "weight": "500",
+      "status": "loaded"
+    },
+    {
+      "family": "JetBrains Mono",
+      "weight": "700",
+      "status": "unloaded"
+    },
+    {
+      "family": "JetBrains Mono",
+      "weight": "700",
+      "status": "unloaded"
+    },
+    {
+      "family": "JetBrains Mono",
+      "weight": "700",
+      "status": "loaded"
+    },
+    {
+      "family": "JetBrains Mono",
+      "weight": "700",
+      "status": "unloaded"
+    },
+    {
+      "family": "JetBrains Mono",
+      "weight": "700",
+      "status": "loaded"
+    },
+    {
+      "family": "JetBrains Mono",
+      "weight": "700",
+      "status": "loaded"
+    },
+    {
+      "family": "Source Serif 4",
+      "weight": "400 700",
+      "status": "unloaded"
+    },
+    {
+      "family": "Source Serif 4",
+      "weight": "400 700",
+      "status": "unloaded"
+    },
+    {
+      "family": "Source Serif 4",
+      "weight": "400 700",
+      "status": "unloaded"
+    },
+    {
+      "family": "Source Serif 4",
+      "weight": "400 700",
+      "status": "unloaded"
+    },
+    {
+      "family": "Source Serif 4",
+      "weight": "400 700",
+      "status": "unloaded"
+    },
+    {
+      "family": "Source Serif 4",
+      "weight": "400 700",
+      "status": "loaded"
+    },
+    {
+      "family": "Source Serif 4",
+      "weight": "400 700",
+      "status": "unloaded"
+    },
+    {
+      "family": "Source Serif 4",
+      "weight": "400 700",
+      "status": "unloaded"
+    },
+    {
+      "family": "Source Serif 4",
+      "weight": "400 700",
+      "status": "unloaded"
+    },
+    {
+      "family": "Source Serif 4",
+      "weight": "400 700",
+      "status": "unloaded"
+    },
+    {
+      "family": "Source Serif 4",
+      "weight": "400 700",
+      "status": "unloaded"
+    },
+    {
+      "family": "Source Serif 4",
+      "weight": "400 700",
+      "status": "loaded"
+    },
+    {
+      "family": "VT323",
+      "weight": "400",
+      "status": "unloaded"
+    },
+    {
+      "family": "VT323",
+      "weight": "400",
+      "status": "unloaded"
+    },
+    {
+      "family": "VT323",
+      "weight": "400",
+      "status": "loaded"
+    }
+  ],
+  "variables": {
+    "--border": "rgba(26, 26, 26, 0.16)",
+    "--blueprint-tint-strong": "rgba(53, 83, 255, 0.18)",
+    "--header-offset": "92px",
+    "--status-planned": "#b8b6ad",
+    "--accent": "#3553ff",
+    "--blueprint": "#3553ff",
+    "--modal-bg": "#fafaf5",
+    "--overlay-bg": "rgba(26, 26, 26, 0.55)",
+    "--blueprint-tint": "rgba(53, 83, 255, 0.08)",
+    "--header-bg": "rgba(250, 250, 245, 0.94)",
+    "--ink-mute": "#7a7a78",
+    "--font-body": "'Source Serif 4', 'Source Serif Pro', 'Iowan Old Style', Georgia, serif",
+    "--bg-surface-hover": "#ece9dc",
+    "--text-muted": "#4a4a4a",
+    "--ease-drawer": "cubic-bezier(0.32, 0.72, 0, 1)",
+    "--shadow-hard": "3px 3px 0 #1a1a1a",
+    "--ink": "#1a1a1a",
+    "--bg": "#fafaf5",
+    "--paper-rule": "rgba(26, 26, 26, 0.08)",
+    "--code-bg": "#efece0",
+    "--motion-enter": "220ms",
+    "--dot-color": "rgba(26, 26, 26, 0.08)",
+    "--text": "#1a1a1a",
+    "--complete": "#3553ff",
+    "--accent-hover": "#2840d6",
+    "--status-in-progress": "#4a4a4a",
+    "--font-mono": "'JetBrains Mono', ui-monospace, 'Consolas', monospace",
+    "--font-display": "'VT323', ui-monospace, 'JetBrains Mono', monospace",
+    "--bg-surface": "#f3f1e8",
+    "--motion-press": "160ms",
+    "--rule-soft": "rgba(26, 26, 26, 0.16)",
+    "--motion-feedback": "180ms",
+    "--planned": "#b8b6ad",
+    "--warn": "#b8870f",
+    "--motion-drawer": "250ms",
+    "--ease-out": "cubic-bezier(0.23, 1, 0.32, 1)",
+    "--ink-soft": "#4a4a4a",
+    "--font-heading": "'VT323', ui-monospace, 'JetBrains Mono', monospace",
+    "--secondary": "#3553ff",
+    "--shadow-hard-lg": "5px 5px 0 #1a1a1a",
+    "--shadow-color": "#1a1a1a",
+    "--rule": "#1a1a1a",
+    "--status-complete": "#3553ff",
+    "--ease-in-out": "cubic-bezier(0.77, 0, 0.175, 1)"
+  }
+}

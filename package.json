@@ -1,0 +1,15 @@
+{
+  "name": "ece-from-first-principles",
+  "version": "0.1.0",
+  "private": true,
+  "description": "An interactive electronics and communication engineering survey course",
+  "scripts": {
+    "build": "node scripts/vendor-hairline.cjs && python3 scripts/build.py",
+    "test": "node tests/test_simulators.cjs",
+    "test:browser": "node tests/browser.cjs",
+    "serve": "python3 -m http.server 8073 --bind 127.0.0.1"
+  },
+  "dependencies": {
+    "@lucasmarkes/hairline": "0.5.1"
+  }
+}

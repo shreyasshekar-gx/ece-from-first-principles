@@ -1,0 +1,16 @@
+const assert=require('node:assert/strict');
+const m=require('../site/simulators.js');
+assert.equal(m.rc(0,1000,1e-6),0);
+assert.ok(Math.abs(m.rc(.001,1000,1e-6)-3.3*(1-Math.exp(-1)))<1e-12);
+assert.equal(m.alias(700,1000),300);
+assert.equal(m.alias(300,1000),300);
+assert.equal(m.alias(900,1000),100);
+assert.equal(m.reflection(50),0);
+assert.equal(m.reflection(0),-1);
+assert.equal(m.reflection(100),1/3);
+assert.equal(m.power(2)/m.power(1),4);
+assert.equal(m.pwm(0,1000,0),0);
+assert.equal(m.pwm(.000999,1000,1),1);
+assert.ok(Math.abs(m.control(100,2)-2/3)<1e-12);
+assert.throws(()=>m.rc(-1,1,1));
+console.log('PASS: 13 numerical simulator assertions');

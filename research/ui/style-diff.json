@@ -1,0 +1,292 @@
+{
+  "sourceUrl": "https://aiengineeringfromscratch.com/",
+  "copyUrl": "http://127.0.0.1:8073/site/",
+  "sourceViewport": {
+    "width": 1440,
+    "height": 1050,
+    "dpr": 1,
+    "scrollX": 0,
+    "scrollY": 0
+  },
+  "copyViewport": {
+    "width": 1440,
+    "height": 1050,
+    "dpr": 1,
+    "scrollX": 0,
+    "scrollY": 0
+  },
+  "total": 7,
+  "diffCount": 6,
+  "checks": [
+    {
+      "selector": "body",
+      "index": 0,
+      "status": "diff",
+      "differences": [
+        {
+          "type": "style",
+          "property": "backgroundImage",
+          "source": "radial-gradient(rgba(26, 26, 26, 0.08) 1px, rgba(0, 0, 0, 0) 1px)",
+          "copy": "radial-gradient(rgba(26, 26, 26, 0.08) 0.8px, rgba(0, 0, 0, 0) 0.8px)"
+        },
+        {
+          "type": "rect",
+          "delta": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.0,
+            "h": -1967.734
+          },
+          "source": {
+            "x": 0,
+            "y": 0,
+            "w": 1430,
+            "h": 6716.625
+          },
+          "copy": {
+            "x": 0,
+            "y": 0,
+            "w": 1430,
+            "h": 4748.891
+          }
+        }
+      ]
+    },
+    {
+      "selector": "h1",
+      "index": 0,
+      "status": "diff",
+      "differences": [
+        {
+          "type": "rect",
+          "delta": {
+            "x": 0.0,
+            "y": -1.5,
+            "w": 0.0,
+            "h": 0.0
+          },
+          "source": {
+            "x": 95,
+            "y": 146.641,
+            "w": 762,
+            "h": 220.156
+          },
+          "copy": {
+            "x": 95,
+            "y": 145.141,
+            "w": 762,
+            "h": 220.156
+          }
+        }
+      ]
+    },
+    {
+      "selector": "header",
+      "index": 0,
+      "status": "ok",
+      "differences": []
+    },
+    {
+      "selector": "nav",
+      "index": 0,
+      "status": "diff",
+      "differences": [
+        {
+          "type": "style",
+          "property": "gap",
+          "source": "14px",
+          "copy": "20px"
+        },
+        {
+          "type": "rect",
+          "delta": {
+            "x": 12.563,
+            "y": 0.406,
+            "w": -22.813,
+            "h": -0.812
+          },
+          "source": {
+            "x": 893.453,
+            "y": 14,
+            "w": 280.391,
+            "h": 36
+          },
+          "copy": {
+            "x": 906.016,
+            "y": 14.406,
+            "w": 257.578,
+            "h": 35.188
+          }
+        }
+      ]
+    },
+    {
+      "selector": "h2",
+      "index": 0,
+      "status": "diff",
+      "differences": [
+        {
+          "type": "style",
+          "property": "fontFamily",
+          "source": "\"Source Serif 4\", \"Source Serif Pro\", \"Iowan Old Style\", Georgia, serif",
+          "copy": "VT323, ui-monospace, \"JetBrains Mono\", monospace"
+        },
+        {
+          "type": "style",
+          "property": "fontSize",
+          "source": "24px",
+          "copy": "54px"
+        },
+        {
+          "type": "style",
+          "property": "fontWeight",
+          "source": "600",
+          "copy": "400"
+        },
+        {
+          "type": "style",
+          "property": "lineHeight",
+          "source": "28.8px",
+          "copy": "51.3px"
+        },
+        {
+          "type": "style",
+          "property": "letterSpacing",
+          "source": "-0.48px",
+          "copy": "1.08px"
+        },
+        {
+          "type": "rect",
+          "delta": {
+            "x": -59.0,
+            "y": 416.047,
+            "w": -109.171,
+            "h": 73.797
+          },
+          "source": {
+            "x": 154,
+            "y": 974.375,
+            "w": 592.359,
+            "h": 28.797
+          },
+          "copy": {
+            "x": 95,
+            "y": 1390.422,
+            "w": 483.188,
+            "h": 102.594
+          }
+        }
+      ]
+    },
+    {
+      "selector": "p",
+      "index": 0,
+      "status": "diff",
+      "differences": [
+        {
+          "type": "rect",
+          "delta": {
+            "x": 0.0,
+            "y": 18.984,
+            "w": 0.0,
+            "h": 0.0
+          },
+          "source": {
+            "x": 95,
+            "y": 394.797,
+            "w": 720,
+            "h": 62
+          },
+          "copy": {
+            "x": 95,
+            "y": 413.781,
+            "w": 720,
+            "h": 62
+          }
+        }
+      ]
+    },
+    {
+      "selector": "a",
+      "index": 0,
+      "status": "diff",
+      "differences": [
+        {
+          "type": "style",
+          "property": "fontFamily",
+          "source": "\"JetBrains Mono\", ui-monospace, Consolas, monospace",
+          "copy": "\"Source Serif 4\", \"Source Serif Pro\", \"Iowan Old Style\", Georgia, serif"
+        },
+        {
+          "type": "style",
+          "property": "fontSize",
+          "source": "14.4px",
+          "copy": "18px"
+        },
+        {
+          "type": "style",
+          "property": "lineHeight",
+          "source": "23.328px",
+          "copy": "29.16px"
+        },
+        {
+          "type": "style",
+          "property": "color",
+          "source": "rgb(255, 255, 255)",
+          "copy": "rgb(250, 250, 245)"
+        },
+        {
+          "type": "style",
+          "property": "borderTopColor",
+          "source": "rgb(255, 255, 255)",
+          "copy": "rgb(250, 250, 245)"
+        },
+        {
+          "type": "style",
+          "property": "paddingTop",
+          "source": "0px",
+          "copy": "10px"
+        },
+        {
+          "type": "style",
+          "property": "paddingRight",
+          "source": "0px",
+          "copy": "10px"
+        },
+        {
+          "type": "style",
+          "property": "paddingBottom",
+          "source": "0px",
+          "copy": "10px"
+        },
+        {
+          "type": "style",
+          "property": "paddingLeft",
+          "source": "0px",
+          "copy": "10px"
+        },
+        {
+          "type": "rect",
+          "delta": {
+            "x": 5.0,
+            "y": -115.0,
+            "w": 141.5,
+            "h": 48.156
+          },
+          "source": {
+            "x": 15,
+            "y": 15,
+            "w": 1,
+            "h": 1
+          },
+          "copy": {
+            "x": 20,
+            "y": -100,
+            "w": 142.5,
+            "h": 49.156
+          }
+        }
+      ]
+    }
+  ]
+}
